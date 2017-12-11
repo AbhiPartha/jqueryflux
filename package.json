@@ -1,0 +1,19 @@
+{
+  "name": "jqueryflux",
+  "version": "1.0.0",
+  "description": "Jquery with flux",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhiPartha/jqueryflux.git"
+  },
+  "author": "papa_dragon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbhiPartha/jqueryflux/issues"
+  },
+  "homepage": "https://github.com/AbhiPartha/jqueryflux#readme"
+}
